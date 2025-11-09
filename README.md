@@ -50,9 +50,13 @@ It’s designed for learning, student record management, and demonstrating JDBC 
 
 ## 👨‍💻 Author
 **Vasanth Raj**  
-💡 Passionate about Java and Databases
-🔗 GitHub: [github.com/iamvasanthraj]((https://github.com/iamvasanthraj))
+💡 Passionate about Java and Databases  
+🔗 GitHub: [github.com/iamvasanthraj](https://github.com/iamvasanthraj)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+
 
 > 🏷️ *“SmartDB Handler — A console-based student record management system built using Java and MySQL (JDBC).”*
